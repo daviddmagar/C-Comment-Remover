@@ -3,4 +3,4 @@ Simple program that uses standard input and output to display a file with all si
 
 Usage: 	Compile program with gcc comment_remove.c
 	Run from terminal with ./a.out<input.c, where input.c is the file to have comments removed 
-before printing the file to the terminal       
+	before printing the file to the terminal       
